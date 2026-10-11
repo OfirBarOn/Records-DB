@@ -1,1 +1,15 @@
-Team final project from the AWS re/Start bootcamp (2023): a Bash CLI for managing a music-album database. My part: the search and delete modules, the sorted and total reports (printTotal, printSorted), and the logging function. We worked on feature branches and merged through pull requests.
+# Records-DB: Bash Music Album Manager
+
+Team final project from the AWS re/Start bootcamp (2023): a menu-driven Bash CLI
+for managing a music-album database stored in flat files.
+
+## My part
+- Search and delete modules
+- Reports: `printTotal`, `printSorted`
+- Logging function used across all scripts
+
+## Workflow
+Feature branches per team member, merged into Dev and main through pull requests.
+
+## Usage
+    ./program.sh
