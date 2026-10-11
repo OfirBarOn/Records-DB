@@ -1,0 +1,1 @@
+Team final project from the AWS re/Start bootcamp (2023): a Bash CLI for managing a music-album database. My part: the search and delete modules, the sorted and total reports (printTotal, printSorted), and the logging function. We worked on feature branches and merged through pull requests.
